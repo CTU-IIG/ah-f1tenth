@@ -1,0 +1,6 @@
+[submodule "core-java-spring"]
+	path = core-java-spring
+	url = https://github.com/arrowhead-f/core-java-spring.git
+[submodule "f1tenth-scoreapp"]
+	path = f1tenth-scoreapp
+	url = git@github.com:CTU-IIG/f1tenth-scoreapp.git
